@@ -1,0 +1,1 @@
+{"mode": "3 players", "index_player": 0, "has_timer": "True", "players": [{"object": "Black", "name": "%%BOT%%", "play_time": 10}, {"object": "White", "name": "R", "play_time": 50}, {"object": "Red", "name": "E", "play_time": 20}], "field": [{"x": 210, "y": 185, "type": "Red"}]}
